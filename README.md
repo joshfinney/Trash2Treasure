@@ -41,11 +41,11 @@ A leaderboard showcases the top scorers in virtual rubbish collection, fostering
 ## 👥 Authors
 
 - [@joshfinney](https://github.com/joshfinney)
-- [@jarljreg](https://github.com/@jarljreg)
-- [@sixtifever](https://github.com/@sixtifever)
-- [@scourt19](https://github.com/@scourt19)
-- [@jamesbarkes](https://github.com/@jamesbarkes)
-- [@sangeethsohan100](https://github.com/@sangeethsohan100)
+- [@jarljreg](https://github.com/jarljreg)
+- [@sixtifever](https://github.com/sixtifever)
+- [@scourt19](https://github.com/scourt19)
+- [@jamesbarkes](https://github.com/jamesbarkes)
+- [@sangeethsohan100](https://github.com/sangeethsohan100)
 - Version: 10.1
 
 ## 📦 Requirements
